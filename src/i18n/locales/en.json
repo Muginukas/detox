@@ -1,0 +1,151 @@
+{
+  "app": {
+    "name": "Detox",
+    "tagline": "Body, mind and soul"
+  },
+  "nav": {
+    "home": "Home",
+    "library": "Library",
+    "protocols": "Protocols",
+    "progress": "Progress",
+    "settings": "Settings",
+    "menu": "Menu"
+  },
+  "common": {
+    "all": "All",
+    "search": "Search",
+    "clear": "Clear",
+    "back": "Back",
+    "minutes": "{{count}} min",
+    "day": "Day",
+    "days_one": "{{count}} day",
+    "days_other": "{{count}} days",
+    "start": "Start",
+    "continue": "Continue",
+    "restart": "Restart",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "close": "Close",
+    "readMore": "Read",
+    "of": "of",
+    "done": "Done",
+    "article": "Article",
+    "protocol": "Protocol"
+  },
+  "evidence": {
+    "label": "Evidence level",
+    "researched": "Research-backed",
+    "emerging": "Partly studied",
+    "traditional": "Traditional practice",
+    "researchedHint": "Studied and supported by solid research.",
+    "emergingHint": "Some research exists, but it is early, mixed or small.",
+    "traditionalHint": "A practice carried by tradition and experience, without a firm modern evidence base."
+  },
+  "safety": {
+    "title": "Safety warning"
+  },
+  "home": {
+    "greeting": "Welcome",
+    "subtitle": "A library and practices for cleansing body, mind and soul from smoking, food, heavy metals and microplastics.",
+    "todayTitle": "Today's habits",
+    "todaySubtitle": "Tick off what you have already done today.",
+    "todayDone": "{{done}} of {{total}} done",
+    "activeProtocol": "Active protocol",
+    "noActiveProtocol": "You haven't started a protocol yet.",
+    "chooseProtocol": "Choose a protocol",
+    "streak": "Streak",
+    "streakDays": "days in a row",
+    "exploreTitle": "Start here",
+    "allArticles": "All articles",
+    "seeProgress": "See progress"
+  },
+  "library": {
+    "title": "Library",
+    "subtitle": "Articles about what actually builds up in the body — and how to help the body let it go.",
+    "searchPlaceholder": "Search a topic, substance or practice…",
+    "filters": "Filters",
+    "domain": "Area",
+    "toxin": "Topic",
+    "evidenceFilter": "Evidence level",
+    "resetFilters": "Reset filters",
+    "results_one": "{{count}} result",
+    "results_other": "{{count}} results",
+    "noResults": "Nothing found. Try another word or reset the filters.",
+    "searchResults": "Search results"
+  },
+  "article": {
+    "sources": "Sources",
+    "related": "Related articles",
+    "backToLibrary": "Back to library",
+    "notFound": "This article does not exist."
+  },
+  "protocols": {
+    "title": "Protocols",
+    "subtitle": "Practical day-by-day programmes. Start with the one that feels realistic today.",
+    "duration": "Duration",
+    "inProgress": "In progress",
+    "notStarted": "Not started",
+    "completed": "Completed",
+    "progressLabel": "{{done}} of {{total}} steps",
+    "startedOn": "Started on {{date}}"
+  },
+  "protocol": {
+    "notFound": "This protocol does not exist.",
+    "backToProtocols": "Back to protocols",
+    "dayLabel": "Day {{n}}",
+    "focus": "Focus of the day",
+    "startProtocol": "Start protocol",
+    "restartConfirm": "Restart this protocol? All its ticks will be cleared.",
+    "relatedArticles": "Worth reading",
+    "todayIs": "Today is your day {{n}}",
+    "beyondEnd": "The protocol period is over, but you can still tick off steps."
+  },
+  "progress": {
+    "title": "Progress",
+    "subtitle": "Everything is stored in your browser only. Nothing is sent to any server.",
+    "habits": "Habits",
+    "habitsToday": "Today",
+    "currentStreak": "Current streak",
+    "longestStreak": "Longest streak",
+    "totalDays": "Active days",
+    "last30": "Last 30 days",
+    "journal": "Journal",
+    "journalPlaceholder": "How do you feel today? What went well, what was hard?",
+    "journalSaved": "Saved",
+    "journalEntries": "Earlier entries",
+    "noEntries": "No entries yet.",
+    "noActivity": "Start ticking habits and your history will appear here.",
+    "protocolsSection": "Protocol progress"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "data": "My data",
+    "dataHint": "Your progress lives only in this browser. Clearing browser data removes it, so a backup is worth keeping.",
+    "export": "Export to file",
+    "import": "Import from file",
+    "importSuccess": "Data imported successfully.",
+    "importError": "Could not read the file. Make sure it is a Detox export file.",
+    "reset": "Delete all data",
+    "resetConfirm": "Delete all progress? This cannot be undone.",
+    "resetDone": "Data deleted.",
+    "storageUnavailable": "Your browser does not allow saving data (private mode?). The app works, but progress will not survive a reload.",
+    "about": "About",
+    "aboutText": "Detox is an open library and practice collection for cleansing body, mind and soul. It includes both research-backed and traditional methods; each one carries a label so you can see what kind of knowledge it rests on.",
+    "version": "Version"
+  },
+  "disclaimer": {
+    "title": "Important",
+    "text": "This app is educational and is not medical advice. It does not replace a doctor. Before fasting, taking supplements, changing medication or attempting chelation, talk to a healthcare professional — especially if you are pregnant, breastfeeding, living with a chronic illness or taking medication."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "This page does not exist or has been moved.",
+    "home": "Go home"
+  }
+}

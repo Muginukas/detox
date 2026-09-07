@@ -1,0 +1,104 @@
+:root {
+  color-scheme: light;
+
+  --bg: #f6f4ef;
+  --bg-soft: #efece4;
+  --surface: #ffffff;
+  --surface-2: #faf9f6;
+  --border: #e2ddd2;
+  --border-strong: #cfc8b9;
+
+  --text: #1b241f;
+  --text-muted: #5e6a62;
+  --text-faint: #8a948c;
+
+  --accent: #127a4e;
+  --accent-soft: #e3f0e9;
+  --accent-strong: #0d5c3a;
+  --accent-contrast: #ffffff;
+
+  --domain-body: #127a4e;
+  --domain-body-soft: #e3f0e9;
+  --domain-mind: #2b6cb0;
+  --domain-mind-soft: #e3edf7;
+  --domain-soul: #b5641f;
+  --domain-soul-soft: #f8ecdf;
+
+  --ev-researched: #1a6b49;
+  --ev-researched-soft: #e2efe7;
+  --ev-emerging: #8a5c10;
+  --ev-emerging-soft: #f8efdc;
+  --ev-traditional: #6d5296;
+  --ev-traditional-soft: #ece7f6;
+
+  --warn: #a33a2a;
+  --warn-soft: #fbe9e5;
+  --warn-border: #edc7bf;
+
+  --heat-0: #eceadf;
+  --heat-1: #cfe3d6;
+  --heat-2: #9ec9b1;
+  --heat-3: #5da688;
+  --heat-4: #2f6b4f;
+
+  --radius-sm: 8px;
+  --radius: 14px;
+  --radius-lg: 20px;
+  --shadow-sm: 0 1px 2px rgba(27, 36, 31, 0.06);
+  --shadow: 0 2px 10px rgba(27, 36, 31, 0.07);
+  --shadow-lg: 0 12px 32px rgba(27, 36, 31, 0.12);
+
+  --font: "Inter", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-reading: "Iowan Old Style", "Palatino Linotype", Georgia, "Times New Roman", serif;
+
+  --maxw: 1080px;
+  --header-h: 60px;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --bg: #101613;
+  --bg-soft: #141c18;
+  --surface: #18211d;
+  --surface-2: #1d2723;
+  --border: #2a3630;
+  --border-strong: #3a4a42;
+
+  --text: #e8ede9;
+  --text-muted: #9daba3;
+  --text-faint: #718077;
+
+  --accent: #33a374;
+  --accent-soft: #16281f;
+  --accent-strong: #46b587;
+  --accent-contrast: #0d1512;
+
+  --domain-body: #33a374;
+  --domain-body-soft: #16281f;
+  --domain-mind: #4f92e0;
+  --domain-mind-soft: #16232f;
+  --domain-soul: #c8792f;
+  --domain-soul-soft: #2b2117;
+
+  --ev-researched: #57bd8f;
+  --ev-researched-soft: #1a2b22;
+  --ev-emerging: #dfae5c;
+  --ev-emerging-soft: #2c2416;
+  --ev-traditional: #b39ae8;
+  --ev-traditional-soft: #241f33;
+
+  --warn: #ef9483;
+  --warn-soft: #2e1b17;
+  --warn-border: #4b2a24;
+
+  --heat-0: #1c2521;
+  --heat-1: #1f3a2c;
+  --heat-2: #2d5f45;
+  --heat-3: #48916b;
+  --heat-4: #6ec397;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.5);
+}

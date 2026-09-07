@@ -1,0 +1,153 @@
+{
+  "app": {
+    "name": "Detox",
+    "tagline": "Kūnas, protas ir siela"
+  },
+  "nav": {
+    "home": "Pradžia",
+    "library": "Žinynas",
+    "protocols": "Protokolai",
+    "progress": "Pažanga",
+    "settings": "Nustatymai",
+    "menu": "Meniu"
+  },
+  "common": {
+    "all": "Visi",
+    "search": "Ieškoti",
+    "clear": "Išvalyti",
+    "back": "Atgal",
+    "minutes": "{{count}} min.",
+    "day": "Diena",
+    "days_one": "{{count}} diena",
+    "days_few": "{{count}} dienos",
+    "days_other": "{{count}} dienų",
+    "start": "Pradėti",
+    "continue": "Tęsti",
+    "restart": "Pradėti iš naujo",
+    "cancel": "Atšaukti",
+    "save": "Išsaugoti",
+    "delete": "Ištrinti",
+    "close": "Uždaryti",
+    "readMore": "Skaityti",
+    "of": "iš",
+    "done": "Atlikta",
+    "article": "Straipsnis",
+    "protocol": "Protokolas"
+  },
+  "evidence": {
+    "label": "Įrodymų lygis",
+    "researched": "Tyrimais pagrįsta",
+    "emerging": "Dalinai tirta",
+    "traditional": "Tradicinė praktika",
+    "researchedHint": "Metodas tirtas ir patvirtintas kokybiškais tyrimais.",
+    "emergingHint": "Tyrimų yra, bet jie ankstyvi, prieštaringi arba maži.",
+    "traditionalHint": "Praktika, atėjusi iš tradicijos ir patirties, be tvirto šiuolaikinio tyrimų pagrindo."
+  },
+  "safety": {
+    "title": "Saugumo įspėjimas"
+  },
+  "home": {
+    "greeting": "Sveiki",
+    "subtitle": "Žinynas ir praktikos apie kūno, proto ir sielos valymą nuo rūkymo, maisto, sunkiųjų metalų ir mikroplastikų.",
+    "todayTitle": "Šiandienos įpročiai",
+    "todaySubtitle": "Pažymėk, ką jau padarei šiandien.",
+    "todayDone": "{{done}} iš {{total}} atlikta",
+    "activeProtocol": "Aktyvus protokolas",
+    "noActiveProtocol": "Kol kas nepradėjai nė vieno protokolo.",
+    "chooseProtocol": "Pasirinkti protokolą",
+    "streak": "Serija",
+    "streakDays": "dienų iš eilės",
+    "exploreTitle": "Pradėk nuo čia",
+    "allArticles": "Visi straipsniai",
+    "seeProgress": "Peržiūrėti pažangą"
+  },
+  "library": {
+    "title": "Žinynas",
+    "subtitle": "Straipsniai apie tai, kas iš tikrųjų kaupiasi organizme ir kaip organizmui padėti nuo to atsikratyti.",
+    "searchPlaceholder": "Ieškok temos, medžiagos ar praktikos…",
+    "filters": "Filtrai",
+    "domain": "Sritis",
+    "toxin": "Tema",
+    "evidenceFilter": "Įrodymų lygis",
+    "resetFilters": "Išvalyti filtrus",
+    "results_one": "{{count}} rezultatas",
+    "results_few": "{{count}} rezultatai",
+    "results_other": "{{count}} rezultatų",
+    "noResults": "Nieko neradome. Pabandyk kitą žodį arba išvalyk filtrus.",
+    "searchResults": "Paieškos rezultatai"
+  },
+  "article": {
+    "sources": "Šaltiniai",
+    "related": "Susiję straipsniai",
+    "backToLibrary": "Grįžti į žinyną",
+    "notFound": "Tokio straipsnio nėra."
+  },
+  "protocols": {
+    "title": "Protokolai",
+    "subtitle": "Praktinės programos diena po dienos. Pradėk nuo tos, kuri šiandien atrodo realiausia.",
+    "duration": "Trukmė",
+    "inProgress": "Vykdoma",
+    "notStarted": "Nepradėta",
+    "completed": "Užbaigta",
+    "progressLabel": "{{done}} iš {{total}} žingsnių",
+    "startedOn": "Pradėta {{date}}"
+  },
+  "protocol": {
+    "notFound": "Tokio protokolo nėra.",
+    "backToProtocols": "Grįžti į protokolus",
+    "dayLabel": "{{n}} diena",
+    "focus": "Dienos akcentas",
+    "startProtocol": "Pradėti protokolą",
+    "restartConfirm": "Tikrai pradėti iš naujo? Visos šio protokolo varnelės bus ištrintos.",
+    "relatedArticles": "Verta perskaityti",
+    "todayIs": "Šiandien tavo {{n}} diena",
+    "beyondEnd": "Protokolo laikas baigėsi, bet žingsnius vis dar gali žymėti."
+  },
+  "progress": {
+    "title": "Pažanga",
+    "subtitle": "Viskas saugoma tik tavo naršyklėje. Niekas nesiunčiama į jokį serverį.",
+    "habits": "Įpročiai",
+    "habitsToday": "Šiandien",
+    "currentStreak": "Dabartinė serija",
+    "longestStreak": "Ilgiausia serija",
+    "totalDays": "Aktyvių dienų",
+    "last30": "Paskutinės 30 dienų",
+    "journal": "Dienoraštis",
+    "journalPlaceholder": "Kaip šiandien jautiesi? Kas pavyko, kas buvo sunku?",
+    "journalSaved": "Išsaugota",
+    "journalEntries": "Ankstesni įrašai",
+    "noEntries": "Kol kas įrašų nėra.",
+    "noActivity": "Pradėk žymėti įpročius ir čia atsiras tavo istorija.",
+    "protocolsSection": "Protokolų eiga"
+  },
+  "settings": {
+    "title": "Nustatymai",
+    "language": "Kalba",
+    "theme": "Tema",
+    "themeLight": "Šviesi",
+    "themeDark": "Tamsi",
+    "themeSystem": "Kaip sistemoje",
+    "data": "Mano duomenys",
+    "dataHint": "Progresas laikomas tik šioje naršyklėje. Išvalius naršyklės duomenis jis dings, todėl verta pasidaryti atsarginę kopiją.",
+    "export": "Eksportuoti į failą",
+    "import": "Importuoti iš failo",
+    "importSuccess": "Duomenys sėkmingai importuoti.",
+    "importError": "Nepavyko nuskaityti failo. Įsitikink, kad tai Detox eksporto failas.",
+    "reset": "Ištrinti visus duomenis",
+    "resetConfirm": "Tikrai ištrinti visą progresą? Šio veiksmo atšaukti negalėsi.",
+    "resetDone": "Duomenys ištrinti.",
+    "storageUnavailable": "Naršyklė neleidžia išsaugoti duomenų (galbūt privatus režimas). Programėlė veiks, bet progresas neišliks po perkrovimo.",
+    "about": "Apie",
+    "aboutText": "Detox — atviras žinynas ir praktikų rinkinys apie kūno, proto ir sielos valymą. Turinys apima ir tyrimais pagrįstus, ir tradicinius metodus; kiekvienas pažymėtas savo žyma, kad matytum, kokiu žinojimu jis remiasi.",
+    "version": "Versija"
+  },
+  "disclaimer": {
+    "title": "Svarbu",
+    "text": "Ši programėlė yra švietėjiška ir nėra medicininė konsultacija. Ji nepakeičia gydytojo. Prieš pradedant pasninkauti, vartoti papildus, keisti vaistus ar taikyti chelaciją, pasitark su sveikatos priežiūros specialistu — ypač jei esi nėščia, maitini, sergi lėtine liga ar vartoji vaistus."
+  },
+  "notFound": {
+    "title": "Puslapis nerastas",
+    "text": "Tokio puslapio nėra arba jis buvo perkeltas.",
+    "home": "Į pradžią"
+  }
+}
