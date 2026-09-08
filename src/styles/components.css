@@ -101,7 +101,11 @@
 
 /* ---------- search & filters ---------- */
 .searchbox { position: relative; display: flex; align-items: center; }
-.searchbox input { padding-left: 38px; padding-right: 84px; height: 46px; border-radius: 999px; }
+.searchbox input[type="search"] {
+  padding: 9px 84px 9px 38px;
+  height: 46px;
+  border-radius: 999px;
+}
 .searchbox__icon {
   position: absolute; left: 15px;
   color: var(--text-faint); font-size: 1.15rem; pointer-events: none;
